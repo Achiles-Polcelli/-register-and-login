@@ -209,3 +209,4 @@ passwordIcons.forEach(icon => {
         this.classList.toggle('fa-eye');
     })
 })
+
